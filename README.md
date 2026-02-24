@@ -48,5 +48,5 @@
 
 ## 📫 Contato
 
-📩 Email: teuemail@email.com  
-💼 Aberto a oportunidades como Desenvolvedor Back-End
+📩 Email: albertobetilson763@email.com  
+💼 Aberto a oportunidades como Desenvolvedor Back-End junior
